@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\bin\Debug\web-crawler-csharp.exe.config
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\bin\Debug\web-crawler-csharp.exe
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\bin\Debug\web-crawler-csharp.pdb
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\obj\Debug\web-crawler-csharp.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\obj\Debug\web-crawler-csharp.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\obj\Debug\web-crawler-csharp.exe
+C:\Users\Administrator\source\repos\web-crawler-csharp\web-crawler-csharp\obj\Debug\web-crawler-csharp.pdb
